@@ -46,7 +46,7 @@ Chatbot orientado a consultas académicas y manejo de información educativa.
 ## 🧠 En qué estoy enfocado
 - Backend y arquitectura de software  
 - Diseño de bases de datos e índices  
-- Aplicaciones offline-first  
+- Aplicaciones offline-first/Web
 - React/TypeScript y UI limpia  
 - Buenas prácticas de ingeniería (UML, requisitos, testing)
 
