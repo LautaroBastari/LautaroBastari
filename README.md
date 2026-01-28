@@ -29,7 +29,7 @@ Actualmente estoy completando mi **Licenciatura en Sistemas**, con una formació
 
 ## 🔧 Proyectos Actuales
 
-### **Huevo Santo (App de Escritorio · Rust + React + SQLite)**
+### **Huevo Santo (App de Escritorio · Rust + React + SQLite) - Freelance**
 Sistema offline-first de ventas y stock con módulos de ventas, stock, caja, reportes, autenticación, roles y panel administrativo.
 
 ### **Sistema Contable Universitario (PHP/MySQL)**
