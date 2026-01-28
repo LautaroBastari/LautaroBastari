@@ -66,6 +66,7 @@ Chatbot orientado a consultas académicas y manejo de información educativa.
 ---
 
 ##  Enfoque
+- Desarrollo de software
 - Backend y arquitectura de software  
 - Diseño de bases de datos e índices  
 - Aplicaciones offline-first/Web
