@@ -1,56 +1,54 @@
-# 🧑‍💻 Hi, I'm Lautaro Bastari
+# 🧑‍💻 Hola, soy Lautaro Bastari
 
-**Full-Stack Developer — Rust (Tauri) + React/TypeScript**  
-Focused on building fast, offline-first desktop software with solid engineering practices.
+Desarrollador Full-Stack con enfoque en **Rust, Python y React/TypeScript**, orientado a construir software sólido, eficiente y bien estructurado. Trabajo con especial atención en el diseño de bases de datos, la lógica de negocio y la arquitectura completa de aplicaciones.
 
-I enjoy working end-to-end: backend, data modeling, APIs, system design, and clean UI implementation.  
-Currently finishing my **Bachelor’s in Information Systems** and building real production-grade software.
+Actualmente estoy completando mi **Licenciatura en Sistemas**, con una formación fuertemente orientada a **ingeniería de software**: modelado UML, requisitos, testing, ciclos de desarrollo iterativos y diseño de sistemas.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tecnologías
 
-### Languages & Frameworks
+### Lenguajes y Frameworks
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?logo=tauri&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=000)
 
-### Databases & Backend
+### Bases de Datos y Backend
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![SQLx](https://img.shields.io/badge/SQLx-000?logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 
-### Tools & UI
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0ea5e9?logo=tailwindcss&logoColor=white)
+### Herramientas y Frontend
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0ea5e9?logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🔧 Current Projects
+## 🔧 Proyectos Actuales
 
-### **Huevo Santo (Desktop App · Rust + React + SQLite)**
-Offline-first sales & inventory system with modules for sales, stock, caja, reporting, authentication, roles, and admin panel.
+### **Huevo Santo (App de Escritorio · Rust + React + SQLite)**
+Sistema offline-first de ventas y stock con módulos de ventas, stock, caja, reportes, autenticación, roles y panel administrativo.
 
 ### **Sistema Contable Universitario (PHP/MySQL)**
-Academic accounting platform for accounts, transactions and reporting.
+Plataforma académica para gestión contable, transacciones e informes.
 
 ### **Material Contest System (Java/Spring Boot)**
-Submission and material management system for academic competitions.
+Sistema para gestión de materiales y envíos en concursos académicos.
 
-### **University Chatbot (Python + AI APIs)**
-Assistant for academic queries and course information.
+### **Asistente Universitario (Python + APIs de IA)**
+Chatbot orientado a consultas académicas y manejo de información educativa.
 
 ---
 
-## 🧠 What I’m Working On
-- Backend fundamentals (Rust + SQLx)
-- Database schema design & performance tuning
-- Tauri architecture for offline-first apps
-- React/TypeScript UI development
-- Applying UML, requirements and testing practices
+## 🧠 En qué estoy enfocado
+- Backend y arquitectura de software  
+- Diseño de bases de datos e índices  
+- Aplicaciones offline-first  
+- React/TypeScript y UI limpia  
+- Buenas prácticas de ingeniería (UML, requisitos, testing)
 
 ---
 
@@ -61,6 +59,6 @@ Assistant for academic queries and course information.
 
 ---
 
-## 🔗 Links
+## 🔗 Enlaces
 - **Portfolio:** https://lautarobastari.github.io/Portfolio/  
 - **LinkedIn:** https://www.linkedin.com/in/lautarobastari/
