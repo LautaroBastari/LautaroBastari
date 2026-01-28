@@ -52,6 +52,7 @@ Plataforma académica para gestión contable, transacciones e informes.
 ![Java](https://img.shields.io/badge/Java-000?logo=java&logoColor=white&style=flat)
 ![Spring](https://img.shields.io/badge/SpringBoot-000?logo=springboot&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=white&style=flat)
+
 Sistema para gestión de materiales y envíos en concursos académicos.
 
 ---
