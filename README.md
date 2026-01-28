@@ -1,4 +1,4 @@
-# 🧑‍💻 Hola, soy Lautaro Bastari
+# Hola, soy Lautaro Bastari
 
 Soy analista en sistemas especializado en desarrollo Full-Stack con enfoque en **Rust, Python y React/TypeScript**, orientado a construir software sólido, eficiente y bien estructurado. Trabajo con especial atención en el diseño de bases de datos, la lógica de negocio y la arquitectura completa de aplicaciones.
 
