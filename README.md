@@ -29,13 +29,13 @@ Actualmente estoy completando mi **Licenciatura en Sistemas**, con una formació
 
 ##  Proyectos Actuales
 
-### **Huevo Santo (App de Escritorio)**  
+### **Huevo Santo (App de Escritorio) - Freelance**  
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=white&style=flat)
 
-Sistema offline-first de ventas y stock con módulos de ventas, stock, caja, reportes, autenticación, roles y panel administrativo.
+Sistema offline-first de ventas y stock con módulos de ventas, stock, caja, reportes, autenticación, roles, panel administrativo y trazabilidad para ventas, caja y movimientos.
 
 ---
 
