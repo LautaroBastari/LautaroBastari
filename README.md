@@ -1,6 +1,6 @@
 # 🧑‍💻 Hola, soy Lautaro Bastari
 
-Desarrollador Full-Stack con enfoque en **Rust, Python y React/TypeScript**, orientado a construir software sólido, eficiente y bien estructurado. Trabajo con especial atención en el diseño de bases de datos, la lógica de negocio y la arquitectura completa de aplicaciones.
+Soy analista en sistemas especializado en desarrollo Full-Stack con enfoque en **Rust, Python y React/TypeScript**, orientado a construir software sólido, eficiente y bien estructurado. Trabajo con especial atención en el diseño de bases de datos, la lógica de negocio y la arquitectura completa de aplicaciones.
 
 Actualmente estoy completando mi **Licenciatura en Sistemas**, con una formación fuertemente orientada a **ingeniería de software**: modelado UML, requisitos, testing, ciclos de desarrollo iterativos y diseño de sistemas.
 
@@ -29,18 +29,36 @@ Actualmente estoy completando mi **Licenciatura en Sistemas**, con una formació
 
 ##  Proyectos Actuales
 
-### **Huevo Santo (App de Escritorio · Rust + React + SQLite) - Freelance**
+### **Huevo Santo (App de Escritorio)**  
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=white&style=flat)
+
 Sistema offline-first de ventas y stock con módulos de ventas, stock, caja, reportes, autenticación, roles y panel administrativo.
 
-### **Sistema Contable Universitario (PHP/MySQL)**
+---
+
+### **Sistema Contable Universitario**  
+![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=white&style=flat)
+
 Plataforma académica para gestión contable, transacciones e informes.
 
-### **Material Contest System (Java/Spring Boot)**
+---
+
+### **Material Contest System**  
+![Java](https://img.shields.io/badge/Java-000?logo=java&logoColor=white&style=flat)
+![Spring](https://img.shields.io/badge/SpringBoot-000?logo=springboot&logoColor=white&style=flat)
+
 Sistema para gestión de materiales y envíos en concursos académicos.
 
-### **Asistente Universitario (Python + APIs de IA)**
-Chatbot orientado a consultas académicas y manejo de información educativa.
+---
 
+### **Asistente Universitario**  
+![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white&style=flat)
+![AI](https://img.shields.io/badge/AI%20APIs-000?logo=cloudflare&logoColor=white&style=flat)
+
+Chatbot orientado a consultas académicas y manejo de información educativa.
 ---
 
 ##  Enfoque
