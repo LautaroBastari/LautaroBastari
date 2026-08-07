@@ -39,7 +39,7 @@ Arquitectura distribuida basada en microservicios para la gestión de eventos, c
 
 ---
 
-### **App de Escritorio - Freelance**  
+### **App de PyMe - Freelance**  
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=flat)
