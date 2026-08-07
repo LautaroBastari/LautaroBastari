@@ -29,7 +29,17 @@ Actualmente estoy completando mi **Licenciatura en Sistemas**, con una formació
 
 ##  Proyectos Actuales
 
-### **Huevo Santo (App de Escritorio) - Freelance**  
+### **Greater Events (Microservicios)**  
+![Java](https://img.shields.io/badge/Java-000?logo=java&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?logo=springboot&logoColor=white&style=flat)
+![Keycloak](https://img.shields.io/badge/Keycloak-000?logo=keycloak&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white&style=flat)
+
+Arquitectura distribuida basada en microservicios para la gestión de eventos, con Service Discovery (Eureka), API Gateway, seguridad centralizada mediante OAuth2/Keycloak y contenedores Docker.
+
+---
+
+### **App de Escritorio - Freelance**  
 ![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white&style=flat)
